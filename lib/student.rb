@@ -3,6 +3,7 @@ class Student
 
   def initialize(name)
     @name = name
+    hello
   end
 
   def hello
